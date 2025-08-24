@@ -15,6 +15,18 @@
 - ⚡ Fun Fact: *I debug faster with coffee ☕ than without it!*
 
 ---
+## 💻 Languages and Tools
+
+<p align="center"> 
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nodejs,express,django,flask,python,java,c,cpp" /><br/>
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,firebase" /><br/>
+  
+  <!-- Tools & Platforms -->
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,azure,vercel,netlify,postman,figma" />
+</p>
 
 
 ---
