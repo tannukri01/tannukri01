@@ -5,9 +5,11 @@ PORTFOLIO: 🔗 (https://personal-portfolio-zeta-ebon-50.vercel.app)
 ---
 
 ### 👩‍💻 About Me
-MCA Graduate | Full-Stack Developer skilled in **React, Node.js, Express, MongoDB, SQL, and Python**.  
-Passionate about building **scalable web applications** and exploring **DevOps & Cloud technologies**.  
-Open to collaborate on **real-world projects and internships**.  
+MCA Graduate | **Frontend Developer** skilled in **HTML, CSS, JavaScript, React, Angular, and Tailwind CSS**.  
+Passionate about creating **responsive, user-friendly, and visually appealing web applications**.  
+Currently exploring **UI/UX design and performance optimization**.  
+Open to collaborate on **Frontend projects, internships, and real-world applications**.
+  
 
 💡 Fun Fact: *I debug faster with coffee ☕ than without it!*
 
