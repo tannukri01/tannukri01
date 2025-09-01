@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tannu Kumari</h1>
 <h3 align="center">💻 FRONTEND DEVELOPER| Lifelong Learner</h3>
-PORTFOLIO: 🔗 (https://personal-portfolio-zeta-ebon-50.vercel.app)
+PORTFOLIO: 🔗 https://personal-portfolio-zeta-ebon-50.vercel.app
 
 ---
 
