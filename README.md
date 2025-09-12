@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tannu Kumari</h1>
 <h3 align="center">💻 FRONTEND DEVELOPER| Lifelong Learner</h3>
-PORTFOLIO: 🔗 https://personal-portfolio-zeta-ebon-50.vercel.app
+PORTFOLIO: 🔗 (https://personal-portfolio-nwlt.vercel.app)
 
 ---
 
@@ -84,7 +84,8 @@ Open to collaborate on **Frontend projects, internships, and real-world applicat
 
 <a href="https://personal-portfolio-nwlt.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a> 
+</a>
+
 
 This is my **personal portfolio website** showcasing my projects, skills, and contact information.  
 Built using **HTML, CSS, and JavaScript**, and deployed on **Vercel** 🚀.  
@@ -98,12 +99,12 @@ Built using **HTML, CSS, and JavaScript**, and deployed on **Vercel** 🚀.
 - 📬 Contact form  
 - ⚡ Hosted on Vercel  
 
----
 
-## 🌐 Live Demo
-👉 [Click here to view portfolio](https://personal-portfolio-zeta-ebon-50.vercel.app)
 
----
+## 🌐 Live Demo  
+👉 [Click here to view portfolio](https://personal-portfolio-nwlt.vercel.app)
+
+
 
 ## 🛠️ Tech Stack
 - **HTML5**  
