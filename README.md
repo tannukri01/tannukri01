@@ -80,8 +80,40 @@ Open to collaborate on **Frontend projects, internships, and real-world applicat
   <a href="https://leetcode.com/u/tannukri01/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black">
   </a>
-  <a href="https://personal-portfolio-zeta-ebon-50.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-  </a>
+  # 📖 Personal Portfolio
+
+<a href="https://personal-portfolio-zeta-ebon-50.vercel.app">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
+This is my **personal portfolio website** showcasing my projects, skills, and contact information.  
+Built using **HTML, CSS, and JavaScript**, and deployed on **Vercel** 🚀.  
+
+---
+
+## ✨ Features
+- 🎨 Modern & Responsive UI  
+- 📂 Projects Showcase  
+- 🧑‍💻 Skills & Services section  
+- 📬 Contact form  
+- ⚡ Hosted on Vercel  
+
+---
+
+## 🌐 Live Demo
+👉 [Click here to view portfolio](https://personal-portfolio-zeta-ebon-50.vercel.app)
+
+---
+
+## 🛠️ Tech Stack
+- **HTML5**  
+- **CSS3**  
+- **JavaScript**  
+- **Vercel** (deployment)
+
+---
+
+⭐ Don’t forget to **star** this repo if you like it!  
+
 </p>
 
