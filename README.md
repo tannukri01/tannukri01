@@ -82,9 +82,9 @@ Open to collaborate on **Frontend projects, internships, and real-world applicat
   </a>
   # 📖 Personal Portfolio
 
-<a href="https://personal-portfolio-zeta-ebon-50.vercel.app">
+<a href="https://personal-portfolio-nwlt.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
-</a>
+</a> 
 
 This is my **personal portfolio website** showcasing my projects, skills, and contact information.  
 Built using **HTML, CSS, and JavaScript**, and deployed on **Vercel** 🚀.  
