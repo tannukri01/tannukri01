@@ -4,12 +4,32 @@ PORTFOLIO: 🔗 (https://personal-portfolio-nwlt.vercel.app)
 
 ---
 
-### 👩‍💻 About Me
-MCA Graduate | **Frontend Developer** skilled in **HTML, CSS, JavaScript, React, Angular, and Tailwind CSS**.  
-Passionate about creating **responsive, user-friendly, and visually appealing web applications**.  
-Currently exploring **UI/UX design and performance optimization**.  
-Open to collaborate on **Frontend projects, internships, and real-world applications**.
-  
+# Hi there 👋 I'm Tannu Kumari
+
+🎓 MCA Graduate (2025) | Full Stack Developer
+
+I'm a passionate Software Engineer with a strong interest in building scalable web applications and solving real-world problems through technology. I enjoy working across the full stack using Java, JavaScript, React.js, Next.js, Node.js, Python, and SQL.
+
+🚀 **Tech Stack**
+
+* Java • JavaScript • Python • C++
+* React.js • Next.js • Node.js • Express.js
+* HTML • CSS • Tailwind CSS
+* MySQL • PostgreSQL • MongoDB
+* Git • GitHub • REST APIs • Docker
+
+💡 **Currently**
+
+* Improving Data Structures & Algorithms
+* Building full-stack projects
+* Learning AI integration and modern software engineering practices
+* Seeking Software Engineer / Full Stack Developer opportunities
+
+📫 **Let's Connect**
+
+* LinkedIn: https://www.linkedin.com/in/tannu-kumariofficial
+
+ 
 
 💡 Fun Fact: *I debug faster with coffee ☕ than without it!*
 
