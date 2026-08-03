@@ -130,19 +130,6 @@ A modern real-time chat application with authentication and live messaging.
 
 ---
 
-# 📈 Contribution Graph
-
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tannukri01&theme=react-dark)](https://github.com/tannukri01)
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/tannukri01/tannukri01/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 # 🏆 GitHub Trophies
 
