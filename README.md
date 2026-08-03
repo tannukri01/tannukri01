@@ -8,9 +8,9 @@
 
 # Hi 👋 I'm Tannu Kumari
 
-### 💻 Full Stack Developer | MCA Graduate 2025 | Java Developer
+### 💻 Full Stack Developer | Software Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js+Developer;Building+AI+Powered+Applications;Always+Learning+New+Technologies"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Software+Developer;Java+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Open+to+Software+Engineering+Opportunities"/>
 
 </div>
 
@@ -21,36 +21,40 @@
 ```yaml
 Name: Tannu Kumari
 
-Role: Full Stack Developer
+Role: Full Stack Developer | Software Developer
 
 Education: MCA Graduate (2025)
 
-Location: India
+Location: India 🇮🇳
 
 Currently Learning:
   - Spring Boot
-  - System Design
   - AI Integration
+  - System Design
 
 Looking For:
   - Software Engineer
-  - Java Developer
+  - Software Developer
   - Full Stack Developer
 
 Tech Stack:
   - Java
   - JavaScript
-  - React
+  - React.js
   - Next.js
   - Node.js
+  - Express.js
   - Python
-  - SQL
+  - MySQL
+  - MongoDB
+  - PostgreSQL
 ```
 
 - 🔭 Building scalable Full Stack applications
-- 🌱 Learning Spring Boot & AI
-- 💡 Love solving DSA problems
-- 💬 Ask me about Java, React, Node.js, SQL
+- 🌱 Learning Spring Boot, AI Integration & System Design
+- 💡 Passionate about solving Data Structures & Algorithms problems
+- 💬 Ask me about Java, React.js, Node.js, Express.js, SQL & REST APIs
+- 🚀 Open to Full Stack Developer & Software Developer opportunities
 - 📫 **Email:** **singhtannu768@gmail.com**
 
 ---
@@ -75,13 +79,13 @@ Tech Stack:
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
 </p>
 
-## 🗄 Database
+## 🗄 Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 </p>
 
-## ☁ Tools
+## ☁️ Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
@@ -92,32 +96,23 @@ Tech Stack:
 # 🚀 Featured Projects
 
 ### 🤖 AI Government Form Filler
+AI-powered SaaS that extracts structured data and auto-fills Indian government forms.
 
-AI-powered SaaS that extracts data and auto-fills Indian government forms.
-
-**Tech Stack**
-
-Next.js • TypeScript • MongoDB • Redis • Gemini API
+**Tech:** Next.js • TypeScript • MongoDB • Redis • Gemini API
 
 ---
 
-### ✈ AI Travel Planner
+### ✈️ AI Travel Planner
+AI-powered travel itinerary planner with personalized recommendations.
 
-AI-based travel itinerary planner using Gemini AI.
-
-**Tech Stack**
-
-React • Node.js • Express • MongoDB
+**Tech:** React • Node.js • Express • MongoDB
 
 ---
 
-### 💬 Real Time Chat App
+### 💬 Real-Time Chat Application
+A modern real-time chat application with authentication and live messaging.
 
-Real-time messaging application with authentication.
-
-**Tech Stack**
-
-React • Node.js • Socket.io • MongoDB
+**Tech:** React • Node.js • Socket.IO • MongoDB
 
 ---
 
@@ -125,11 +120,11 @@ React • Node.js • Socket.io • MongoDB
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=tannukri01&show_icons=true&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tannukri01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=tannukri01&theme=tokyonight)
+<img height="170" src="https://streak-stats.demolab.com?user=tannukri01&theme=tokyonight&hide_border=true"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tannukri01&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannukri01&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -137,27 +132,29 @@ React • Node.js • Socket.io • MongoDB
 
 # 📈 Contribution Graph
 
-[![Tannu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=tannukri01&theme=react-dark)](https://github.com/tannukri01)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tannukri01&theme=react-dark)](https://github.com/tannukri01)
 
 ---
 
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/tannukri01/tannukri01/output/github-contribution-grid-snake.svg">
+<img src="https://raw.githubusercontent.com/tannukri01/tannukri01/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=tannukri01&theme=tokyonight&margin-w=15)
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=tannukri01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+</p>
 
 ---
 
 # 🌐 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="https://linkedin.com/in/tannu-kumariofficial">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -181,7 +178,7 @@ React • Node.js • Socket.io • MongoDB
 
 ---
 
-# 💡 Dev Quote
+# 💡 Developer Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
@@ -189,14 +186,16 @@ React • Node.js • Socket.io • MongoDB
 
 # 👀 Profile Views
 
-![](https://komarev.com/ghpvc/?username=tannukri01&label=Profile%20Views&color=blue&style=flat)
+![](https://komarev.com/ghpvc/?username=tannukri01&label=Profile%20Views&color=0e75b6&style=flat)
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-**If you like my projects, don't forget to ⭐ them.**
+### *Building impactful software, one commit at a time.* 🚀
+
+If you like my projects, don't forget to ⭐ my repositories.
 
 </div>
