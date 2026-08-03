@@ -131,14 +131,6 @@ A modern real-time chat application with authentication and live messaging.
 ---
 
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tannukri01&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p>
