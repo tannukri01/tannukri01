@@ -139,8 +139,8 @@ Modern real-time chat application with authentication and Socket.IO.
 Risk monitoring dashboard for traders showing account health, drawdown analysis and trading performance.
 
 🌐 Live Demo
+https://trader-risk-dashboard.netlify.app
 
-https://traderriskdashboard.netlify.app
 
 ---
 
