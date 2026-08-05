@@ -1,16 +1,26 @@
-<!-- ================================
-🚀 Tannu Kumari GitHub Profile README
-================================ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e96442,100:d8e9f0&height=180&section=header&text=Tannu%20Kumari&fontSize=42&fontColor=1a1a2e&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Tannu%20Kumari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 
-# Hi 👋 I'm Tannu Kumari
+# 👋 Hi, I'm Tannu Kumari
 
-### 💻 Full Stack Developer | Software Developer
+### Full Stack Developer | Software Engineer | AI Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Software+Developer;Java+%7C+React+%7C+Node.js;Building+Scalable+Web+Applications;Open+to+Software+Engineering+Opportunities"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;Java+%7C+React+%7C+Next.js+%7C+Node.js;Building+AI-Powered+Applications;Open+to+Software+Engineering+Opportunities"/>
+
+<p>
+
+<a href="https://github.com/tannukri01">
+<img src="https://img.shields.io/github/followers/tannukri01?label=Followers&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/tannukri01">
+<img src="https://img.shields.io/github/stars/tannukri01?affiliations=OWNER&style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=tannukri01&style=for-the-badge"/>
+
+</p>
 
 </div>
 
@@ -18,109 +28,160 @@
 
 # 👩‍💻 About Me
 
-```yaml
-Name: Tannu Kumari
-
-Role: Full Stack Developer | Software Developer
-
-Education: MCA Graduate (2025)
-
-Location: India 🇮🇳
-
-Currently Learning:
-  - Spring Boot
-  - AI Integration
-  - System Design
-
-Looking For:
-  - Software Engineer
-  - Software Developer
-  - Full Stack Developer
-
-Tech Stack:
-  - Java
-  - JavaScript
-  - React.js
-  - Next.js
-  - Node.js
-  - Express.js
-  - Python
-  - MySQL
-  - MongoDB
-  - PostgreSQL
-```
-
-- 🔭 Building scalable Full Stack applications
-- 🌱 Learning Spring Boot, AI Integration & System Design
-- 💡 Passionate about solving Data Structures & Algorithms problems
-- 💬 Ask me about Java, React.js, Node.js, Express.js, SQL & REST APIs
-- 🚀 Open to Full Stack Developer & Software Developer opportunities
-- 📫 **Email:** **singhtannu768@gmail.com**
+- 🎓 MCA Graduate (2025)
+- 💻 Full Stack Developer
+- 🌱 Currently learning Spring Boot, System Design & AI Engineering
+- 🚀 Passionate about scalable software and AI-powered applications
+- 💡 Love solving real-world problems using technology
+- 🎯 Looking for Software Engineer / Full Stack Developer opportunities
 
 ---
 
-# 🛠 Tech Stack
+# ⚡ Tech Stack
 
-## 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp"/>
 </p>
 
-## 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
 </p>
 
-## ⚙ Backend
+### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
 </p>
 
-## 🗄 Databases
+### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
 </p>
 
-## ☁️ Tools
+### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman"/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tannukri01&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tannukri01&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannukri01&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=tannukri01&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Graph
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/tannukri01/tannukri01/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 AI Government Form Filler
-AI-powered SaaS that extracts structured data and auto-fills Indian government forms.
+## 🤖 AI Government Form Filler
 
-**Tech:** Next.js • TypeScript • MongoDB • Redis • Gemini API
+AI-powered SaaS platform that extracts structured information and automates government form filling.
 
----
+**Tech Stack**
 
-### ✈️ AI Travel Planner
-AI-powered travel itinerary planner with personalized recommendations.
-
-**Tech:** React • Node.js • Express • MongoDB
-
----
-
-### 💬 Real-Time Chat Application
-A modern real-time chat application with authentication and live messaging.
-
-**Tech:** React • Node.js • Socket.IO • MongoDB
+- Next.js
+- TypeScript
+- MongoDB Atlas
+- Redis
+- Gemini API
 
 ---
 
+## ✈️ AI Travel Planner
 
+Generate intelligent travel itineraries based on destination, budget and travel preferences.
+
+🌐 Live Demo
+
+https://tannu-ai-travel-planner.netlify.app
+
+💻 GitHub
+
+https://github.com/tannukri01/AI-Travel-Planner
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express
+- MongoDB
+- OpenAI API
+
+---
+
+## 💬 Real-Time Chat Application
+
+Modern real-time chat application with authentication and Socket.IO.
+
+**Tech Stack**
+
+- React
+- Node.js
+- Express
+- Socket.IO
+- MongoDB
+
+---
+
+## 📊 Trader Risk Dashboard
+
+Risk monitoring dashboard for traders showing account health, drawdown analysis and trading performance.
+
+🌐 Live Demo
+
+https://traderriskdashboard.netlify.app
+
+---
+
+# 📜 Certifications
+
+- JPMorgan Chase & Co. Software Engineering Virtual Experience
+- Full Stack Web Development
+- Frontend Development
+
+---
 
 # 🌐 Connect With Me
 
-<p>
+<p align="left">
 
 <a href="https://linkedin.com/in/tannu-kumariofficial">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -138,30 +199,12 @@ A modern real-time chat application with authentication and live messaging.
 
 ---
 
-# 😂 Random Dev Joke
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight"/>
-
----
-
-# 💡 Developer Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-# 👀 Profile Views
-
-![](https://komarev.com/ghpvc/?username=tannukri01&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
 <div align="center">
 
-## ⭐ Thanks for visiting my profile!
+## 💙 Thanks for visiting my profile!
 
-### *Building impactful software, one commit at a time.* 🚀
+### ⭐ If you like my projects, consider giving them a Star.
 
-If you like my projects, don't forget to ⭐ my repositories.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
 
 </div>
