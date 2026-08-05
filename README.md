@@ -116,19 +116,6 @@ A modern real-time chat application with authentication and live messaging.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tannukri01&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=tannukri01&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannukri01&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 
 # 🌐 Connect With Me
