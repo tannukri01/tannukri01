@@ -1,183 +1,141 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=220&section=header&text=Tannu%20Kumari&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-
-# 👋 Hi, I'm Tannu Kumari
-
-### Full Stack Developer | Software Engineer | AI Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Software+Engineer;Java+%7C+React+%7C+Next.js+%7C+Node.js;Building+AI-Powered+Applications;Open+to+Software+Engineering+Opportunities"/>
-
-<p>
-
-<a href="https://github.com/tannukri01">
-<img src="https://img.shields.io/github/followers/tannukri01?label=Followers&style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/tannukri01">
-<img src="https://img.shields.io/github/stars/tannukri01?affiliations=OWNER&style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=tannukri01&style=for-the-badge"/>
-
-</p>
-
+  <img src="./id.png" width="260" alt="Tannu Kumari - Stylized Portrait"/>
 </div>
 
----
+<br>
 
-# 👩‍💻 About Me
+# Hi, I'm **Tannu Kumari** 👋
 
-- 🎓 MCA Graduate (2025)
-- 💻 Full Stack Developer
-- 🌱 Currently learning Spring Boot, System Design & AI Engineering
-- 🚀 Passionate about scalable software and AI-powered applications
-- 💡 Love solving real-world problems using technology
-- 🎯 Looking for Software Engineer / Full Stack Developer opportunities
+### Software Development Engineer · Full-Stack & Backend · AI Applications
 
----
+MCA Graduate (2025) · Open to SDE / Full-Stack / Backend roles
 
-# ⚡ Tech Stack
+<br>
 
-### Languages
+<div>
+  <img src="./right_pointing.png" width="220" align="left" alt="Tannu pointing right"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,ts,python,cpp"/>
-</p>
+  <br>
 
-### Frontend
+  **What I build**
+  - End-to-end production-style apps (REST APIs → databases → Docker → CI/CD)
+  - AI-powered tools using LLMs, RAG, and structured output
+  - Clean, maintainable backend systems with real transactional integrity
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
-</p>
+  **Currently focused on**
+  - Spring Boot & System Design
+  - Production AI (RAG, LangChain, FastAPI)
+  - Shipping reliable full-stack products
 
-### Backend
+  **Open to** Software Engineer / Full-Stack / Backend roles
+</div>
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode"/>
-</p>
+<br clear="left">
 
 ---
 
+### 🔥 Featured Projects
 
-# 🐍 Contribution Graph
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/tannukri01/tannukri01/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Government Form Filler
-
-AI-powered SaaS platform that extracts structured information and automates government form filling.
-
-**Tech Stack**
-
-- Next.js
-- TypeScript
-- MongoDB Atlas
-- Redis
-- Gemini API
-
----
-
-## ✈️ AI Travel Planner
-
-Generate intelligent travel itineraries based on destination, budget and travel preferences.
-
-🌐 Live Demo
-
-https://tannu-ai-travel-planner.netlify.app
-
-💻 GitHub
-
-https://github.com/tannukri01/AI-Travel-Planner
-
-**Tech Stack**
-
-- React
-- Node.js
-- Express
-- MongoDB
-- OpenAI API
-
----
-
-## 💬 Real-Time Chat Application
-
-Modern real-time chat application with authentication and Socket.IO.
-
-**Tech Stack**
-
-- React
-- Node.js
-- Express
-- Socket.IO
-- MongoDB
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Government Form Filler</h3>
+      <p>Turns unstructured text into validated, print-ready Indian government forms (PAN, Passport, Aadhaar) in &lt;30 seconds.</p>
+      <p><strong>Impact:</strong> ~60% fewer AI API calls via Redis caching · 90%+ test coverage · Docker + CI/CD</p>
+      <p>
+        <code>Next.js</code> <code>TypeScript</code> <code>Gemini API</code> <code>MongoDB</code> <code>Redis</code> <code>Docker</code>
+      </p>
+      <p>
+        <a href="https://ai-form-filler.netlify.app">Live Demo</a> · 
+        <a href="https://github.com/tannukri01/AI-Form-Filler">GitHub</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 DocuMind AI — PDF Chatbot (RAG)</h3>
+      <p>End-to-end RAG pipeline: PDF chunking → HuggingFace embeddings → FAISS → Groq LLM answers grounded in document context.</p>
+      <p><strong>Impact:</strong> Reduces hallucination on document Q&A · Full FastAPI backend with CORS</p>
+      <p>
+        <code>Python</code> <code>FastAPI</code> <code>LangChain</code> <code>FAISS</code> <code>Groq</code>
+      </p>
+      <p>
+        <a href="https://pdf-chatbot-ai.netlify.app">Live Demo</a> · 
+        <a href="https://github.com/tannukri01/Pdf-Chatbot">GitHub</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>📒 Kirana Store Ledger</h3>
+      <p>Digital udhaar manager for kirana stores. Normalized PostgreSQL schema with transactional integrity so credit/debit can never leave a balance inconsistent.</p>
+      <p><strong>Impact:</strong> JWT role access · automated deploy under 5 minutes</p>
+      <p>
+        <code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Prisma</code> <code>NextAuth.js</code>
+      </p>
+      <p>
+        <a href="https://kirana-ledger.netlify.app">Live Demo</a> · 
+        <a href="https://github.com/tannukri01/kirana-ledger">GitHub</a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>✈️ AI Travel Planner</h3>
+      <p>Generates personalized day-wise itineraries from destination, budget and preferences using AI.</p>
+      <p>
+        <code>React</code> <code>Node.js</code> <code>Express</code> <code>MongoDB</code> <code>OpenAI</code>
+      </p>
+      <p>
+        <a href="https://tannu-ai-travel-planner.netlify.app">Live Demo</a> · 
+        <a href="https://github.com/tannukri01/AI-Travel-Planner">GitHub</a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 Trader Risk Dashboard
+### 🛠️ Tech Stack
 
-Risk monitoring dashboard for traders showing account health, drawdown analysis and trading performance.
+**Languages**  
+`Java` `Python` `JavaScript (ES6+)` `TypeScript` `SQL` `C++`
 
-🌐 Live Demo
-https://trader-risk-dashboard.netlify.app
+**Backend**  
+`Spring Boot` `FastAPI` `Node.js` `Express.js` `REST APIs` `Apache Kafka` `JWT`
 
+**Databases**  
+`PostgreSQL` `MySQL` `MongoDB` `Redis` `Prisma ORM`
+
+**Frontend**  
+`React.js` `Next.js` `HTML5` `CSS3` `Tailwind CSS`
+
+**DevOps & Tools**  
+`Docker` `CI/CD` `GitHub Actions` `Git` `AWS` `GCP`
+
+**AI / LLM**  
+`RAG` `LangChain` `FAISS` `Gemini` `Groq` `Prompt Engineering`
+
+**Testing**  
+`JUnit` `Jest` `TDD` `Unit & Integration Testing`
 
 ---
 
-# 📜 Certifications
+### 🧪 Relevant Simulations
 
-- JPMorgan Chase & Co. Software Engineering Virtual Experience
-- Full Stack Web Development
-- Frontend Development
+| Simulation | Focus | Key Outcome |
+|------------|-------|-------------|
+| **JPMorgan Chase** – Software Engineering | Java, Spring Boot, Kafka, JPA | Built Kafka consumer for high-volume transactions with **zero message loss** + JUnit reconciliation |
+| **Deloitte Australia** – Technology | Python, Data Modeling, Log Analysis | Translated business requirements into a written technical proposal for a dashboard solution |
 
 ---
 
-# 🌐 Connect With Me
+### 📫 Connect with me
 
-<p align="left">
-
-<a href="https://linkedin.com/in/tannu-kumariofficial">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://github.com/tannukri01">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="mailto:singhtannu768@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tannu-kumariofficial)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:singhtannu768@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://flip-card-portfolio.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tannukri01)
 
 ---
 
 <div align="center">
-
-## 💙 Thanks for visiting my profile!
-
-### ⭐ If you like my projects, consider giving them a Star.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:4F46E5&height=120&section=footer"/>
-
+  <p>⭐ If you like my work, consider starring the repos — it helps a lot!</p>
+  <p><em>Built with intention. Looking forward to building more.</em></p>
 </div>
