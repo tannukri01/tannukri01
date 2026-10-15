@@ -1,179 +1,188 @@
-<div align="center">
-  <img src="./id.png" width="220" alt="Tannu Kumari"/>
-  
-  <br/><br/>
+ <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=230&color=0:0B1020,45:243B80,100:7C3AED&text=TANNU%20KUMARI&fontColor=FFFFFF&fontSize=48&fontAlignY=42&desc=SOFTWARE%20ENGINEER%20%7C%20FULL%20STACK%20%7C%20AI&descAlignY=62&descSize=15&animation=fadeIn&stroke=6366F1" width="100%" alt="Tannu Kumari — Software Engineer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=8&color=0:2563EB,50:6366F1,100:9333EA" width="100%" alt="Blue purple accent"/>
 
   <br/>
 
-  <a href="https://github.com/tannukri01">
-    <img src="https://img.shields.io/badge/GitHub-tannukri01-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/tannu-kumariofficial">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://flip-card-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="./id.png" width="155" alt="Tannu Kumari"/>
 
-  <br/><br/>
+  <h1>Tannu Kumari</h1>
 
-  <img src="https://img.shields.io/badge/MCA-Graduate%20%7C%202025-2563EB?style=flat-square" alt="MCA Graduate"/>
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack-6366F1?style=flat-square" alt="Full Stack"/>
-  <img src="https://img.shields.io/badge/Focus-Java%20%26%20AI-7C3AED?style=flat-square" alt="Java and AI"/>
+  <h3>Software Developer · Full Stack · Java · AI</h3>
+
+  <p>
+    Building practical web applications, backend systems<br/>
+    and AI-powered tools.
+  </p>
+
+  <p>
+    <a href="https://github.com/tannukri01">GitHub</a>
+    &nbsp; · &nbsp;
+    <a href="https://www.linkedin.com/in/tannu-kumariofficial">LinkedIn</a>
+    &nbsp; · &nbsp;
+    <a href="https://flip-card-portfolio.vercel.app">Portfolio</a>
+    &nbsp; · &nbsp;
+    <a href="mailto:singhtannu768@gmail.com">Email</a>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/MCA-2025-818CF8?style=flat-square&labelColor=111827" alt="MCA 2025"/>
+    <img src="https://img.shields.io/badge/Full%20Stack-Development-818CF8?style=flat-square&labelColor=111827" alt="Full Stack Development"/>
+    <img src="https://img.shields.io/badge/Java%20%7C%20AI-Engineering-A78BFA?style=flat-square&labelColor=111827" alt="Java and AI"/>
+  </p>
+
 </div>
-
-<br/>
-
-<img src="./right_pointing.png" width="200" align="left" alt="Tannu pointing"/>
-
-### 👩🏻‍💻 About Me
-
-Hi, I'm **Tannu Kumari** — a software developer interested in building practical applications across full-stack development, backend engineering, and AI-powered solutions.
-
-I enjoy turning ideas into working products, from responsive user interfaces and REST APIs to database integration and AI-assisted workflows.
-
-- 🔭 **Building:** Full-stack applications and AI-powered tools  
-- ☕ **Backend:** Java, Spring Boot, Python, FastAPI, Node.js  
-- 🧠 **AI & LLM:** Retrieval-Augmented Generation (RAG), LangChain, LLM integrations  
-- 🌐 **Frontend:** React, Next.js, TypeScript, JavaScript  
-- 🗄️ **Data:** PostgreSQL, MongoDB, Redis  
-- 🎯 **Career focus:** Software Engineer / Full Stack Developer
-
-<br clear="left"/>
 
 ---
 
-### 🚀 Featured Projects
+## About Me
 
-<div align="center">
-  <b>01 · AI & Intelligent Automation</b>
-</div>
+<img src="./right_pointing.png" width="175" align="right" alt="Tannu pointing"/>
 
-<br/>
+I'm **Tannu Kumari**, a software developer interested in building useful products across frontend development, backend engineering and AI.
+
+I enjoy working across the development lifecycle — from designing interfaces and building APIs to integrating databases and exploring LLM-powered applications.
+
+**What I'm focused on**
+
+- Backend development with Java, Spring Boot and Python
+- Full-stack applications using React, Next.js and TypeScript
+- AI applications, document retrieval and RAG workflows
+- Writing maintainable code and improving my software engineering fundamentals
+
+<br clear="right"/>
+
+---
+
+## Selected Projects
+
+Projects I've built across full-stack development, AI and application engineering.
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 AI Government Form Filler</h3>
-      An AI-powered application designed to help users convert provided information into structured government-form data.
-      <ul>
-        <li>Form-filling workflow with AI assistance</li>
-        <li>Confidence scoring</li>
-        <li>PDF-oriented output workflow</li>
-      </ul>
-      <b>Stack:</b> Next.js · TypeScript · Gemini · MongoDB · Redis<br/>
-      <a href="https://ai-form-filler.netlify.app">Live Demo</a> · <a href="https://github.com/tannukri01/AI-Form-Filler">GitHub</a>
-    </td>
+
+### 01 / AI Government Form Filler
+
+An AI-assisted application for turning user-provided information into structured government-form data.
+
+**Technologies**
+
+`Next.js` `TypeScript` `Gemini` `MongoDB` `Redis`
+
+[Live application ↗](https://ai-form-filler.netlify.app)
+
+[View source code ↗](https://github.com/tannukri01/AI-Form-Filler)
+
+</td>
     <td width="50%" valign="top">
-      <h3>📄 DocuMind AI — PDF Chatbot</h3>
-      A document question-answering application using a Retrieval-Augmented Generation pipeline.
-      <ul>
-        <li>Ask questions about PDF content</li>
-        <li>Semantic document retrieval</li>
-        <li>LLM-powered responses</li>
-      </ul>
-      <b>Stack:</b> Python · FastAPI · LangChain · FAISS · Groq<br/>
-      <a href="https://pdf-chatbot-ai.netlify.app">Live Demo</a> · <a href="https://github.com/tannukri01/Pdf-Chatbot">GitHub</a>
-    </td>
+
+### 02 / DocuMind AI
+
+A PDF question-answering application built around Retrieval-Augmented Generation (RAG).
+
+**Technologies**
+
+`Python` `FastAPI` `LangChain` `FAISS` `Groq`
+
+[Live application ↗](https://pdf-chatbot-ai.netlify.app)
+
+[View source code ↗](https://github.com/tannukri01/Pdf-Chatbot)
+
+</td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧾 Kirana Store Ledger</h3>
-      A digital ledger application for tracking customer credit and store transactions.
-      <ul>
-        <li>Digital udhaar tracking</li>
-        <li>Customer and transaction management</li>
-        <li>Structured data storage</li>
-      </ul>
-      <b>Stack:</b> Next.js · PostgreSQL · Prisma · NextAuth<br/>
-      <a href="https://kirana-ledger.netlify.app">Live Demo</a> · <a href="https://github.com/tannukri01/kirana-ledger">GitHub</a>
-    </td>
+
+### 03 / Kirana Store Ledger
+
+A digital ledger application for managing customer credit and store transactions.
+
+**Technologies**
+
+`Next.js` `PostgreSQL` `Prisma` `NextAuth`
+
+[Live application ↗](https://kirana-ledger.netlify.app)
+
+[View source code ↗](https://github.com/tannukri01/kirana-ledger)
+
+</td>
     <td width="50%" valign="top">
-      <h3>✈️ AI Travel Planner</h3>
-      An AI-assisted travel planning application for creating personalized, day-wise itineraries.
-      <ul>
-        <li>Travel itinerary generation</li>
-        <li>AI-powered planning workflow</li>
-        <li>Interactive web experience</li>
-      </ul>
-      <b>Stack:</b> React · Node.js · MongoDB · OpenAI<br/>
-      <a href="https://tannu-ai-travel-planner.netlify.app">Live Demo</a> · <a href="https://github.com/tannukri01/AI-Travel-Planner">GitHub</a>
-    </td>
+
+### 04 / AI Travel Planner
+
+An AI-assisted travel planner for creating personalized, day-wise itineraries.
+
+**Technologies**
+
+`React` `Node.js` `MongoDB` `OpenAI`
+
+[Live application ↗](https://tannu-ai-travel-planner.netlify.app)
+
+[View source code ↗](https://github.com/tannukri01/AI-Travel-Planner)
+
+</td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Technology Stack
+## Technical Skills
 
-**Languages**  
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</p>
+**Languages**
 
-**Backend & Frameworks**  
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-</p>
+Java · Python · JavaScript · TypeScript
 
-**Databases & Data Access**  
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
-</p>
+**Backend & APIs**
 
-**AI, Developer Tools & Deployment**  
-<p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
-</p>
+Spring Boot · FastAPI · Node.js · REST APIs
+
+**Frontend**
+
+React · Next.js · HTML · CSS
+
+**Databases**
+
+PostgreSQL · MongoDB · Redis
+
+**AI & Retrieval**
+
+LangChain · RAG · FAISS · LLM integrations
+
+**Tools & Platforms**
+
+Git · GitHub · Postman · Docker · Vercel · Netlify
 
 ---
 
-### 📊 GitHub Analytics
+## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tannukri01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=818CF8&icon_color=A78BFA&text_color=E2E8F0" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannukri01&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1020&title_color=818CF8&text_color=E2E8F0" height="165" alt="Most-used programming languages"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=tannukri01&theme=tokyonight&hide_border=true&background=0B1020&ring=818CF8&fire=A78BFA&currStreakLabel=818CF8" width="70%" alt="GitHub contribution streak"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=tannukri01&show_icons=true&hide_border=true&bg_color=0B1020&title_color=818CF8&icon_color=A78BFA&text_color=CBD5E1&rank_icon=github" width="49%" alt="GitHub statistics"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tannukri01&layout=compact&hide_border=true&bg_color=0B1020&title_color=818CF8&text_color=CBD5E1" width="41%" alt="Most-used languages"/>
+
 </div>
 
 ---
 
-### 🌐 Connect With Me
+## Let's Connect
+
+Interested in software development, backend engineering, full-stack applications and AI.
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/tannu-kumariofficial">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:singhtannu768@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://flip-card-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
+
+  <a href="https://www.linkedin.com/in/tannu-kumariofficial">LinkedIn</a>
+  &nbsp; · &nbsp;
+  <a href="https://github.com/tannukri01">GitHub</a>
+  &nbsp; · &nbsp;
+  <a href="https://flip-card-portfolio.vercel.app">Portfolio</a>
+  &nbsp; · &nbsp;
+  <a href="mailto:singhtannu768@gmail.com">Email me</a>
 
   <br/><br/>
 
-  <i>Building useful software, learning continuously, and turning ideas into applications.</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=0:2563EB,50:6366F1,100:9333EA" width="100%" alt="Blue purple footer"/>
 
-  <br/><br/>
+  <sub>Learning continuously. Building thoughtfully. Improving with every project.</sub>
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:2563EB,50:6366F1,100:7C3AED&section=footer" width="100%" alt="Blue and purple footer"/>
 </div>
