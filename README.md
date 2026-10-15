@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F172A,50:1E3A8A,100:7C3AED&text=TANNU%20KUMARI&fontColor=FFFFFF&fontSize=42&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
   
-  <img src="./id.png.png" width="160" style="border-radius: 12px; border: 3px solid #7C3AED; margin-top: -40px;" alt="Tannu Kumari"/>
+  <img src="./id.png" width="160" style="border-radius: 12px; border: 3px solid #7C3AED; margin-top: -40px;" alt="Tannu Kumari"/>
   
   <h3>Software Development Engineer · Full Stack & Backend · AI</h3>
   <p><b>MCA 2025</b> · Open to SDE / Full Stack / Backend roles</p>
@@ -19,7 +19,7 @@
 <table>
 <tr>
 <td width="22%" align="center" valign="top">
-  <img src="./right_pointing.png.png" width="150" alt="Tannu"/>
+  <img src="./right_pointing.png" width="150" alt="Tannu"/>
 </td>
 <td width="78%" valign="top">
 
